@@ -8356,6 +8356,13 @@ fieldset:disabled .btn {
 .text-white {
   color: #fff !important;
 }
+p.mb-0.text-white a {
+  color: white !important;
+  text-decoration: none;
+}
+p.mb-0.text-white {
+  color: white !important;
+}
 
 .text-body {
   color: #6b6a75 !important;
